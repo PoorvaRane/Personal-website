@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: highlights
     content:
-      title: Hightlights
+      title: Highlights
       filters:
         folders:
           - highlights
@@ -71,7 +71,7 @@ sections:
   #       folders:
   #         - event
   #   design:
-  #     view: article-grid
+  #     view: article-grids
   #     columns: 1
   # - block: collection
   #   id: news
