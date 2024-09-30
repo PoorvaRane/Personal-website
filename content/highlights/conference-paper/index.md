@@ -1,5 +1,5 @@
 ---
-title: 'Veo - Deepmind's Video Generation Model'
+title: "Veo - Deepmind's Video Generation Model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-# ssdate: '2013-07-01T00:00:00Z'
+# date: '2013-07-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
